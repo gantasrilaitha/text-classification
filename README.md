@@ -1,2 +1,3 @@
-# text-classification
-Classifying news articles into different categories using transformers &amp; Distil Bert Model
+# Text-Classification
+Classifying news articles into different categories using **transformers & Distil Bert Model** <br>
+Obtained **Confidence Score of** 0.957
